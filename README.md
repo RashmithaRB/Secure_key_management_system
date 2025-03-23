@@ -71,10 +71,10 @@ pip install cryptography
 ---
 
 ## Usage
-Run the script to execute the test cases:
-```bash
-python script.py
-```
+Click on the link below to run the sript
+
+https://colab.research.google.com/drive/1k-j6DzNtv_LZKdoGd9Z7LCtIqPH690hu?usp=sharing
+
 ### **Test Cases**
 - **Symmetric Encryption:** Encrypts and decrypts a message using AES-256.
 - **Asymmetric Key Pair Generation:** Generates, serializes, and prints an ECC key pair.
